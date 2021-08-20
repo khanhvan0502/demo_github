@@ -1,2 +1,2 @@
 print('hello world 2')
-print('hello lan 2')
+print('hello lan thu n')
